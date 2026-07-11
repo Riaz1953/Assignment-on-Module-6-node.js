@@ -1,0 +1,19 @@
+{
+  "name": "assignment-on-module-6",
+  "version": "1.0.0",
+  "description": "A simple Assignment on node.js",
+  "keywords": [
+    "Assignment",
+    "node.js"
+  ],
+  "license": "ISC",
+  "author": "Md Riazul Islam",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
